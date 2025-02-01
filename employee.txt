@@ -1,1 +1,2 @@
-My name is Samith Hemathialak
+My name is Samith Hemathialak.
+i modified the file from the remote
